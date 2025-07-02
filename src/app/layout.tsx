@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     siteName: 'Massapê Fascinante',
     images: [
       {
-        url: '/opengraph-image.png', // Você pode trocar por sua imagem de destaque
+        url: '/opengraph-image.png',
         width: 1200,
         height: 630,
         alt: 'Imagem promocional de Massapê Fascinante',
