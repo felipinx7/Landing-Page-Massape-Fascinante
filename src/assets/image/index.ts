@@ -26,6 +26,7 @@ import bannercategoriaatracaoturistica from "./banner-categoria-atracao-turistis
 import logoprefeituramassape from "./logo-prefeitura-massape.png"
 import bannercategoriataxistas from "./banner-categoria-taxistas.jpeg"
 import bannercategoriacasas from './imagemcasaschitao.jpeg'
+import logobrasaomassape from "./logo-brasao-massape.png"
 
 export {
   imageLogo,
@@ -35,6 +36,7 @@ export {
   bannercategoriaatracaoturistica,
   bannercategoriahoteis,
   wavesDecored,
+  logobrasaomassape,
   wavesBackground,
   munckupMobile,
   manwithsuitcase,

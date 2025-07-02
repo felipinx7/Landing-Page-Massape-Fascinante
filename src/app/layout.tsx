@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     creator: '@prefeituramassape', 
   },
   icons: {
-    icon: '/logo-brasao-massape.png',
+    icon: './logo-brasao-massape.png',
     shortcut: '/favicon.ico',
     apple: '/apple-touch-icon.png',
   },
